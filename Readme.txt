@@ -1,0 +1,2 @@
+The codes for numerical simulations in the main manuscript and analytical computaions of the normal form (three cases for the FitzHugh-Nagumo model) are provided.
+In each folder, a readme file is written for instructions.
